@@ -53,6 +53,7 @@ Then navigate to the directory and launch Jupyter notebook:
 
 ```bash
 cd Python-Notebooks
+
 jupyter notebook
 ```
 
