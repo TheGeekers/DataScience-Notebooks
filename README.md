@@ -6,7 +6,7 @@ This repo contains educational notebooks about commonly used Python packages in 
 ### Index
 | Name | Application  |
 | --- | --- |
-| [numpy](Numpy/) | Data manipulation, scientific computing, machine learning, numerical analysis, array operations. |
+| [numpy](./Numpy/) | Data manipulation, scientific computing, machine learning, numerical analysis, array operations. |
 | [pandas](Pandas/) | Data analysis, manipulation, cleaning, exploration, visualization, time series analysis, statistics. |
 | [scikit-learn](Scikit-learn/) | Machine learning, classification, regression, clustering, dimensionality reduction, model evaluation, preprocessing. |
 | [matplotlib](Matpl/) | Data visualization, plotting, charts, graphs, histograms, scatter plots, customization. |
