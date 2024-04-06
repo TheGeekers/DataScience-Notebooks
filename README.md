@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./Images/banner.png" width=600>
+</p>
 <h1 align="center">Data Science Learning Notebooks</h1>
 
 This repo contains educational notebooks about commonly used Python packages in the field of data science and AI.
