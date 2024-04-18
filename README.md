@@ -13,7 +13,7 @@ This repo contains educational notebooks about commonly used Python packages in 
 | [scikit-learn](https://github.com/TheGeekers/DataScience-Notebooks/tree/main/scikit-learn) | Machine learning, classification, regression, clustering, dimensionality reduction, model evaluation, preprocessing. |
 | [matplotlib](https://github.com/TheGeekers/DataScience-Notebooks/tree/main/matplotlib) | Data visualization, plotting, charts, graphs, histograms, scatter plots, customization. |
 | [seaborn](https://github.com/TheGeekers/DataScience-Notebooks/tree/main/seaborn) | Statistical data visualization, enhancement of Matplotlib, attractive visualizations, complex data. |
-| [Pyspark](https://github.com/TheGeekers/DataScience-Notebooks/tree/main/PySpark) | Apache Spark is a unified analytics engine for large-scale data processing. |
+| [pyspark](https://github.com/TheGeekers/DataScience-Notebooks/tree/main/PySpark) | Apache Spark is a unified analytics engine for large-scale data processing. |
 
 ### Bugs or Opinion
 Feel free to let me know if there are any problems or any request you have for this repo.
